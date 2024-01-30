@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Beatrice Kemboi
-- 👀 I’m interested in Data Science, AI, and Actuarial Science
-- 🌱 I’m currently pursuing my master's in Data Science and are a Data Science and Analytics Graduate Assistant at GVSU
-- 💞️ I’m looking to collaborate on Data Science, Machine Learning and Deep Learning projects using Python, R, SQL, or C++ 
-- 📫 Best way to reach me is through my email kemboib@mail.gvsu.edu
+- 👀 I’m interested in Software Engineering, Data Science, Machine Learning and AI in general.
+- 🌱 I’m currently pursuing my master's in Software Engineering at Southern Methodist University (SMU) at Dallas, Texas.
+- 💞️ I’m looking to collaborate on Software Engineering, Data Science, Machine Learning and AI projects using Python, R, SQL, Java, and C++. 
+- 📫 Best way to reach me is through my email bkemboi@smu.edu.
 
 <!---
 bkemboi394/bkemboi394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
